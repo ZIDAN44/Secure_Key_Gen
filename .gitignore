@@ -1,0 +1,8 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore secret keys
+output/*.bin
+output/*.enc
+output/*.pem
+output/*.json
